@@ -1,5 +1,0 @@
-paco,3
-paco,543
-juan,65
-toni,70
-juan,56
